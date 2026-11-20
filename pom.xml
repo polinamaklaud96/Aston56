@@ -1,0 +1,2 @@
+git commit --allow-empty -m "Initial commit"
+        git worktree add ../путь_к_папке -b lesson_2
