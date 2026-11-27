@@ -1,0 +1,12 @@
+public class Task8 {
+
+    public static void printString(String text, int count) {
+        for (int i = 0; i < count; i++) {
+            System.out.println(text);
+        }
+    }
+
+    public static void main(String[] args) {
+        printString("Hello, Pavel!", 3);
+    }
+}
